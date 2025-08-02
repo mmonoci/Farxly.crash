@@ -1,0 +1,2 @@
+# Farxly.crash
+crash
